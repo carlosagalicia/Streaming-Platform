@@ -1,0 +1,21 @@
+1,40,3.5,Los viejos tiempos,Accion,1,EPISODE
+2,58,4.5,Agallas,Drama,1,EPISODE
+3,37,5,Diselo a las ranas,Terror,1,EPISODE
+4,29,1.5,Muchachos,Comedia,1,EPISODE
+5,4,3.8,The walking dead,Zombies,1,episodios,SERIE
+6,27,4.8,Los tres robots,Ciencia ficcion,1,EPISODE
+7,38,5,Mas alla de la grieta,Ciencia ficcion,1,EPISODE
+8,18,4.2,Hielo,Ciencia ficcion,2,EPISODE
+9,42,4.9,Respuesta evolutiva,Ciencia ficcion,2,EPISODE
+10,39,4.6,Mal viaje,Ciencia ficcion,3,EPISODE
+11,3,4.9,Love death and robots,Ciencia ficcion,1,SERIE
+12,150,4.9,Inception,Drama,0,MOVIE
+13,190,5,Guardianes de la galaxia,Accion,0,MOVIE
+14,999,3.8,Cookie Clicker,Casual,0,0,1,0,99,JUEGO
+15,139,3.6,El lorax,Fantasia,0,MOVIE
+16,115,3.9,Elysium,Ciencia ficcion,1,MOVIE
+17,93,3.2,CHAPPIE,Ciencia ficcion,1,MOVIE
+18,130,3.8,Spiderman Homecoming,Accion,0,MOVIE
+19,142,4.8,Blade Runner 2049,Ciencia ficcion,1,MOVIE
+20,150,4.4,ARK Survival Evolved,Supervivencia,1,0,1,1,100,JUEGO
+21,999,4.7,Among Us,Cooperativo,0,0,0,0,1,JUEGO
