@@ -1,17 +1,19 @@
-# **Plataforma-de-streaming**
-### Contexto
-La popularidad de los servicios de streaming como Prime Video, HBO+, Netflix o Disney+ ha aumentado considerablemente en la actualidad. Este proyecto consiste en la elaboración de buscador de contenido audiovisual, donde se le mostrará al usuario una coleccion de películas, series y episodios basados en el título buscado. Este proyecto es bastante interesante debido a que se utiliza comunmente por muchos servicios como los mencionados anteriormente, además de que es posible realizarlo de diversas formas e identificarlo como uno de los componentes o funcionalidades escenciales que forman parte de estos servicios.
+# **Streaming Platform**
+### Context
+The popularity of streaming services such as Prime Video, HBO+, Netflix, and Disney+ has significantly increased in recent times. This project involves creating a search engine for audiovisual content, where users can browse a collection of movies, series, and episodes based on the searched title. This project is particularly interesting as it mirrors functionality commonly used by many services like those mentioned above. Moreover, it can be implemented in various ways and is a core feature of these services.
 
-### Solución
-La forma en la cual daría solucion al probema sería declarando 3 clases principales, las cuales serían la clase "Video", la clase "Serie" y la clase "Episodio". Donde los videos tienen su propio ID, nombre, tamaño, genero y rating, los episodios y las peliculas tendrian estas mismas características, además de que los episodios contaran con una temporada a la cual perteneceran. Por otro lado se planea que las series contengan los episodios y las mismas características de los videos (ID, nombre, tamaño, genero y rating). Finalmente se mostrarán las películas, series y episodios dependiendo del nombre y/o género buscado.
+### Solution
+The proposed solution involves defining three main classes: the "Video" class, the "Series" class, and the "Episode" class. Videos will have their own ID, name, size, genre, and rating. Both episodes and movies will share these characteristics, with episodes also having a season to which they belong. Additionally, series will contain episodes and the same attributes as videos (ID, name, size, genre, and rating). The program will display movies, series, and episodes based on the searched title and/or genre.
 
-### Instrucciones para la ejecución del programa
-Descargar el archivo (.cpp)
+### Instructions for Running the Program
+1. Download the file (.cpp).
 
-Generar el ejecutable (.exe):
-  
-    g++ -o streaming.cpp
-  
-Ejecutar en terminal con los comandos:
+2. Generate the executable (.exe):
+    ```bash
+    g++ -o streaming streaming.cpp
+    ```
 
+3. Run in the terminal using the command:
+    ```bash
     streaming.exe
+    ```
